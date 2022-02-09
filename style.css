@@ -48,8 +48,6 @@ button {
 
 .hero img {
     max-width: 50%;
-    flex-shrink: 0;
-    margin-left: 10%;
 }
 
 .header {
@@ -68,7 +66,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    flex-wrap: wrap;
+    gap: 20px
 }
 
 .text {
