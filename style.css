@@ -1,0 +1,176 @@
+body {
+    font-family: 'Roboto';
+    margin: 0%;
+}
+
+.one {
+    background-color: #1f2937;
+    padding: 5% 10%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.main {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: bolder;
+}
+
+.secondary,
+.link a {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+}
+
+.text button {
+    margin-top: 10px;
+}
+
+.hero img {
+    max-width: 50%;
+    flex-shrink: 0;
+    margin-left: 10%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.link {
+    display: flex;
+    gap: 16px;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.information {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.info p {
+    color: #1f2937;
+    text-align: center;
+}
+
+.info img {
+    max-width: 50%;
+    border: 5px solid #3882f6;
+    border-radius: 3px;
+}
+
+.two {
+    padding: 5% 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.informations {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.three {
+    background-color: #e5e7eb;
+    padding: 5% 10%;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+    color: #1f2937;
+    margin: 0%;
+}
+
+.name {
+    text-align: right;
+    margin: 0%;
+}
+
+.four {
+    padding: 5% 10%;
+}
+
+.call {
+    background-color: #3882f6;
+    border-radius: 5px;
+    padding: 20px 60px;
+}
+
+.text1 {
+    color: #e5e7eb;
+    font-weight: bold;
+}
+
+.text2 {
+    color: #e5e7eb;
+}
+
+.call button {
+    border: solid #e5e7eb;
+}
+
+.calltext {
+    display: flex;
+    flex-direction: column;
+}
+
+.call {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.five {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding: 5% 10%;
+}
